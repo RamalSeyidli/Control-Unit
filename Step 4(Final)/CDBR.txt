@@ -1,0 +1,10 @@
+CD:
+00 	U 	1
+01 	Z 	Z
+10 	NZ	Z'
+11	x	x
+BR:
+00 	JMP
+01 	CALL
+10 	RET
+11 	MAP
